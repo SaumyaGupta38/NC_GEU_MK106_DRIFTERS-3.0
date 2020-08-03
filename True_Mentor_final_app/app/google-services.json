@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232001915619",
+    "firebase_url": "https://true-mentor-a1895.firebaseio.com",
+    "project_id": "true-mentor-a1895",
+    "storage_bucket": "true-mentor-a1895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232001915619:android:527edd1564d54118a553d6",
+        "android_client_info": {
+          "package_name": "com.example.true_mentor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232001915619-ncrohq0vvk2p3n4hbp4pt9slspodpjgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-eZMWMZnDn54ZZj1EYa9y1mOIiicVbeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232001915619-ncrohq0vvk2p3n4hbp4pt9slspodpjgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
