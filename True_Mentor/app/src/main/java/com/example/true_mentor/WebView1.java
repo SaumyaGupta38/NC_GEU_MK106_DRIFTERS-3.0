@@ -20,7 +20,7 @@ public class WebView1 extends AppCompatActivity {
 
         webView = findViewById(R.id.web_View1);
         webView.setWebViewClient(new WebViewClient());
-        webView.loadUrl("https://freecareer.herokuapp.com/");
+        webView.loadUrl("https://personalit.herokuapp.com/");
 
         WebSettings webSettings = webView.getSettings();
         webSettings.setJavaScriptEnabled(true);
