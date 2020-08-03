@@ -20,7 +20,7 @@ public class WebView2 extends AppCompatActivity {
 
         webView = findViewById(R.id.web_View2);
         webView.setWebViewClient(new WebViewClient());
-        webView.loadUrl("https://truementor.herokuapp.com/");
+        webView.loadUrl("https://truementor1.herokuapp.com/");
 
         WebSettings webSettings = webView.getSettings();
         webSettings.setJavaScriptEnabled(true);
